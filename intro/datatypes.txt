@@ -1,0 +1,7 @@
+numbers:
+{int  eg: 0,1,2,3.....
+float  eg: 1.23568, 2.236598
+complex} eg: 3i
+
+string- it can be represented using '' or ""
+eg: "python". 'python'
