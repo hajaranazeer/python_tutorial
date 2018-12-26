@@ -1,0 +1,13 @@
+nos=(5,6,7,8,4)
+print(nos)
+for i in reversed(nos):
+    print(i)
+rev=tuple(reversed(nos))
+print(rev)
+asc=tuple(sorted(nos))
+print(asc)
+desc=tuple(reversed(nos))
+print(desc)
+#desc=tuple()
+print("no of elements=",len(desc))
+print("no of 5=",asc.count(8))
