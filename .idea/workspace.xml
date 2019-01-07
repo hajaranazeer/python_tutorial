@@ -2,34 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96332902-6ae5-4a64-820a-f5ce6705036e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/collections/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/list/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/list/list-comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/list/list_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/list/list_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/list/odd-sugar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/list/queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/list/reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/list/reverseee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/set/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/set/iterateset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/set/setex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/function 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/function 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/function-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro/set/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/range/forloop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/range/list-aa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/range/odd or even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/range/prime number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/range/reversable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/range/triangle 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/range/triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programs/oddoreven1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programs/stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programs/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/classes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/classes/class ex 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/classes/class ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/classes/class ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/function/calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/function/fibu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/function/function call 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/function/function call.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/function/lambda map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/function/lambda reduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/function/lamda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/function/lamda filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro/data types a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/bc 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/bc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/break and continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/generators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/generators/generator eg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/generators/generator expression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/while 1 loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/list/list_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/collections/list/list_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/list/list_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/collections/list/list_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/function/function 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/function/function 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/function/function-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/range/odd or even.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/range/odd or even.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/range/triangle 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/range/triangle 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/range/triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/range/triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,82 +48,83 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/function/function-1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/intro/intro2.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function/function 3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/collections/set/setex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/basics/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/collections/dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+            <state relative-caret-position="544">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intro/set/__init__.py">
+        <entry file="file://$PROJECT_DIR$/loop/range/odd or even.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            <state relative-caret-position="68">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/loop/range/list-aa.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/collections/list/list_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state relative-caret-position="68">
+              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/loop/range/triangle.py">
+        <entry file="file://$PROJECT_DIR$/basics/classes/class ex1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basics/classes/class ex 3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basics/classes/class ex2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loop/break and continue.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="15" />
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/collections/list/list_1.py">
+        <entry file="file://$PROJECT_DIR$/loop/bc 1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            <state relative-caret-position="17">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -129,43 +138,23 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pr</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\haju\PycharmProjects\python_tutorial</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/intro/intro7.py" />
-        <option value="$PROJECT_DIR$/intro/intro8.py" />
-        <option value="$PROJECT_DIR$/intro/intro 9.py" />
-        <option value="$PROJECT_DIR$/intro/intro10.py" />
-        <option value="$PROJECT_DIR$/intro11.py" />
-        <option value="$PROJECT_DIR$/programs/modules.py" />
-        <option value="$PROJECT_DIR$/programs/complex.py" />
-        <option value="$PROJECT_DIR$/programs/circle.py" />
-        <option value="$PROJECT_DIR$/programs/si.py" />
-        <option value="$PROJECT_DIR$/programs/swap.py" />
-        <option value="$PROJECT_DIR$/programs/biggest num.py" />
-        <option value="$PROJECT_DIR$/programs/square.py" />
-        <option value="$PROJECT_DIR$/programs/second largest.py" />
-        <option value="$PROJECT_DIR$/programs/sec_largest.py" />
-        <option value="$PROJECT_DIR$/loop/range/rangetypes.py" />
-        <option value="$PROJECT_DIR$/loop/for.py" />
-        <option value="$PROJECT_DIR$/loop/sum_of_nos.py" />
-        <option value="$PROJECT_DIR$/loop/fact.py" />
-        <option value="$PROJECT_DIR$/loop/sum_of_any_nos.py" />
-        <option value="$PROJECT_DIR$/loop/fibonacci.py" />
-        <option value="$PROJECT_DIR$/loop/range/for_loop.py" />
-        <option value="$PROJECT_DIR$/loop/range/product of n nos.py" />
-        <option value="$PROJECT_DIR$/loop/while.py" />
-        <option value="$PROJECT_DIR$/programs/prime number.py" />
-        <option value="$PROJECT_DIR$/programs/algebra.py" />
-        <option value="$PROJECT_DIR$/loop/range/while_loop.py" />
-        <option value="$PROJECT_DIR$/loop/range/odd or even.py" />
-        <option value="$PROJECT_DIR$/programs/oddoreven1.py" />
-        <option value="$PROJECT_DIR$/loop/range/reversable.py" />
-        <option value="$PROJECT_DIR$/loop/range/prime number.py" />
-        <option value="$PROJECT_DIR$/programs/list/reverseee.py" />
         <option value="$PROJECT_DIR$/programs/list/reverse.py" />
         <option value="$PROJECT_DIR$/programs/list/list_2.py" />
         <option value="$PROJECT_DIR$/programs/stack.py" />
@@ -174,9 +163,7 @@
         <option value="$PROJECT_DIR$/programs/list/list-comprehension.py" />
         <option value="$PROJECT_DIR$/programs/list/list_1.py" />
         <option value="$PROJECT_DIR$/loop/range/forloop.py" />
-        <option value="$PROJECT_DIR$/loop/range/triangle 1.py" />
         <option value="$PROJECT_DIR$/intro/set/__init__.py" />
-        <option value="$PROJECT_DIR$/loop/range/triangle.py" />
         <option value="$PROJECT_DIR$/loop/range/list-aa.py" />
         <option value="$PROJECT_DIR$/collections/set/iterateset.py" />
         <option value="$PROJECT_DIR$/collections/dictionary.py" />
@@ -186,11 +173,45 @@
         <option value="$PROJECT_DIR$/function/function 2.py" />
         <option value="$PROJECT_DIR$/function/function 3.py" />
         <option value="$PROJECT_DIR$/function/function-1.py" />
+        <option value="$PROJECT_DIR$/basics.py" />
+        <option value="$PROJECT_DIR$/function/function.py" />
+        <option value="$PROJECT_DIR$/basics/function/function.py" />
+        <option value="$PROJECT_DIR$/basics/function/f6.py" />
+        <option value="$PROJECT_DIR$/basics/function/lamda filter.py" />
+        <option value="$PROJECT_DIR$/basics/function/lambda map.py" />
+        <option value="$PROJECT_DIR$/basics/function/calc.py" />
+        <option value="$PROJECT_DIR$/loop/generators/generator expression.py" />
+        <option value="$PROJECT_DIR$/loop/generators/generator eg.py" />
+        <option value="$PROJECT_DIR$/loop/generators/__init__.py" />
+        <option value="$PROJECT_DIR$/basics/function/fibu.py" />
+        <option value="$PROJECT_DIR$/basics/function/function call 2.py" />
+        <option value="$PROJECT_DIR$/basics/string.py" />
+        <option value="$PROJECT_DIR$/loop/range/triangle 1.py" />
+        <option value="$PROJECT_DIR$/loop/range/triangle.py" />
+        <option value="$PROJECT_DIR$/intro/data types a.py" />
+        <option value="$PROJECT_DIR$/loop/print.py" />
+        <option value="$PROJECT_DIR$/loop/while.py" />
+        <option value="$PROJECT_DIR$/collections/list/list_2.py" />
+        <option value="$PROJECT_DIR$/collections/list/list_1.py" />
+        <option value="$PROJECT_DIR$/basics/palindrome.py" />
+        <option value="$PROJECT_DIR$/basics/function/lambda reduce.py" />
+        <option value="$PROJECT_DIR$/basics/function/lamda" />
+        <option value="$PROJECT_DIR$/basics/function/function call.py" />
+        <option value="$PROJECT_DIR$/loop/break and continue.py" />
+        <option value="$PROJECT_DIR$/loop/bc.py" />
+        <option value="$PROJECT_DIR$/loop/while 1 loop.py" />
+        <option value="$PROJECT_DIR$/loop/bc 1.py" />
+        <option value="$PROJECT_DIR$/basics/classes/__init__.py" />
+        <option value="$PROJECT_DIR$/loop/range/odd or even.py" />
+        <option value="$PROJECT_DIR$/basics/classes/class ex2.py" />
+        <option value="$PROJECT_DIR$/basics/classes/class ex1.py" />
+        <option value="$PROJECT_DIR$/basics/classes/class ex 3.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="1" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="226" />
+    <option name="y" value="2" />
     <option name="width" value="672" />
     <option name="height" value="726" />
   </component>
@@ -210,12 +231,67 @@
             <path>
               <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="basics" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="basics" type="462c0819:PsiDirectoryNode" />
               <item name="function" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
               <item name="intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="intro" type="462c0819:PsiDirectoryNode" />
+              <item name="set" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="loop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="loop" type="462c0819:PsiDirectoryNode" />
+              <item name="generators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="loop" type="462c0819:PsiDirectoryNode" />
+              <item name="range" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="programs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -226,8 +302,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\haju\PycharmProjects\python_tutorial\collections" />
+      <recent name="C:\Users\haju\PycharmProjects\python_tutorial\basics" />
       <recent name="C:\Users\haju\PycharmProjects\python_tutorial" />
+      <recent name="C:\Users\haju\PycharmProjects\python_tutorial\collections" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -242,8 +319,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dictionary">
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.class ex 3">
+    <configuration name="class ex 3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,11 +328,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics/classes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/classes/class ex 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class ex1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics/classes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/classes/class ex1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class ex2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics/classes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/classes/class ex2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,7 +404,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="odd or even" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,53 +412,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loop/range" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/function 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="function 3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_tutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/function 3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="function-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_tutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/function-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop/range/odd or even.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,11 +427,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.class ex 3" />
+        <item itemvalue="Python.class ex1" />
+        <item itemvalue="Python.class ex2" />
+        <item itemvalue="Python.odd or even" />
         <item itemvalue="Python.dictionary" />
-        <item itemvalue="Python.function 2" />
-        <item itemvalue="Python.function 3" />
-        <item itemvalue="Python.function-1" />
-        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -372,21 +449,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="226" y="2" width="672" height="726" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30937973" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49866667" visible="true" weight="0.4869281" />
+      <window_info id="Structure" order="1" sideWeight="0.50133336" side_tool="true" weight="0.14750378" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37806875" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38625205" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.36762226" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.90468985" weight="0.38625205" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50226927" side_tool="true" weight="0.44680852" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -395,19 +473,19 @@
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.30937973" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49866667" visible="true" weight="0.22239032" />
+      <window_info id="Structure" order="1" sideWeight="0.50133336" side_tool="true" weight="0.14750378" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37806875" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38625205" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.35679215" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.90468985" weight="0.38625205" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50226927" side_tool="true" weight="0.44680852" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -434,125 +512,53 @@
           <line>9</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basics/function/function.py</url>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basics/palindrome.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loop/bc 1.py</url>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programs/biggest num.py">
+    <entry file="file://$PROJECT_DIR$/basics/function/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intro/intro10.py">
+    <entry file="file://$PROJECT_DIR$/loop/generators/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intro/intro 9.py">
+    <entry file="file://$PROJECT_DIR$/loop/generators/generator expression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="15" selection-start-line="1" selection-end-line="4" />
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+    <entry file="file://$PROJECT_DIR$/basics/function/function call 2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19278">
-          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
+        <state relative-caret-position="68">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programs/circle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programs/si.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programs/square.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loop/range/__init__.py" />
     <entry file="file://$PROJECT_DIR$/programs/sec_largest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loop/range/rangetypes.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro/datatypes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="11" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro/datatypes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="5" selection-start-line="2" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loop/sum_of_any_nos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loop/while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programs/prime number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programs/algebra.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loop/sum_of_nos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loop/range/product of n nos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/programs/second largest.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -561,136 +567,160 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loop/fibonacci.py">
+    <entry file="file://$PROJECT_DIR$/loop/range/triangle 1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="34">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/collections/list/list_2.py" />
-    <entry file="file://$PROJECT_DIR$/loop/range/reversable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/intro/datatypes.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/programs/oddoreven1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/intro/datatypes.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/loop/range/prime number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/intro/helloworld.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro/intro1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro/intro4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro/intro5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro/intro7.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro/intro8.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro/intro 9.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro/intro6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections/list/queue.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/collections/list/reverse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="3" selection-start-line="29" selection-end-line="29" selection-end-column="31" />
+        <state relative-caret-position="493">
+          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programs/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programs/stack.py">
+    <entry file="file://$PROJECT_DIR$/collections/list/list_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="308">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/collections/list/queue.py">
+    <entry file="file://$PROJECT_DIR$/loop/print.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/collections/list/odd-sugar.py">
+    <entry file="file://$PROJECT_DIR$/basics/palindrome.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loop/fact.py">
+    <entry file="file://$PROJECT_DIR$/basics/function/lambda reduce.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loop/range/while_loop.py">
+    <entry file="file://$PROJECT_DIR$/basics/function/lamda">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/collections/list/list-comprehension.py">
+    <entry file="file://$PROJECT_DIR$/basics/function/function call.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/function/lamda filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections/list/odd-sugar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/function/fibu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro/intro10.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loop/range/forloop.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loop/range/for_loop.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loop/range/triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/loop/for.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loop/range/for_loop.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collections/list/reverseee.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loop/range/odd or even.py">
+    <entry file="file://$PROJECT_DIR$/loop/generators/generator eg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loop/range/triangle 1.py">
+    <entry file="file://$PROJECT_DIR$/basics/string.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="10" selection-start-line="7" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/collections/set/iterateset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/loop/while.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/programs/tuple.py">
+    <entry file="file://$PROJECT_DIR$/loop/bc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loop/range/forloop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" selection-start-line="1" selection-end-line="7" selection-end-column="11" />
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -701,73 +731,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/collections/set/setex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro/set/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loop/range/list-aa.py">
+    <entry file="file://$PROJECT_DIR$/loop/while 1 loop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loop/range/triangle.py">
+    <entry file="file://$PROJECT_DIR$/intro/data types a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="15" />
+        <state relative-caret-position="204">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/collections/list/list_1.py">
+    <entry file="file://$PROJECT_DIR$/basics/classes/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        <state relative-caret-position="221">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/function/function 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/intro/intro2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/collections/dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        <state relative-caret-position="544">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/function/__init__.py">
+    <entry file="file://$PROJECT_DIR$/loop/range/odd or even.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="68">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/function/function 3.py">
+    <entry file="file://$PROJECT_DIR$/loop/break and continue.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="153">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/function/function-1.py">
+    <entry file="file://$PROJECT_DIR$/loop/bc 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/classes/class ex2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/classes/class ex1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/classes/class ex 3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections/list/list_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>

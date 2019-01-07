@@ -18,6 +18,9 @@ print(rev)
 asc=list(sorted(nos))
 print(asc)
 
+for i in searched(nos(2)):
+    print(i)
+
 desc=list(reversed(asc))
 print(desc)
 
