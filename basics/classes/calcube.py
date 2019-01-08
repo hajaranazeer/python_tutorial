@@ -1,4 +1,4 @@
-from basics.classes.calcube import calculate
+from basics.classes.calsqr import Calculate
 class CalCube(Calculate):
     name="base2_mariam"
     def __init__(self):

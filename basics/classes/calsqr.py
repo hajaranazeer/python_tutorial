@@ -1,4 +1,3 @@
-from basics.classes. calsqr import calculate
 class Calculate:
 
     name="base1_hajara"
